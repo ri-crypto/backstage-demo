@@ -5,7 +5,7 @@ metadata:
   description: Create SIT/UAT/PROD Pipeline
   tags:
     - jenkins
-    - shell script
+    - shell-script
   links:
     - url: http://ciuat.ultimatix.net
       title: Utility
