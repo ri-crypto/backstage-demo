@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: CICD-Self-Service-Pipeline-Deletion-Utility
+  description: Self service utility to remove pipeline from CICD
+  tags:
+    - jenkins
+  links:
+    - url: http://ciuat.ultimatix.net
+      title: Utility
+      icon: dashboard
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Engineering Platforms
+  system: CICD Platform
