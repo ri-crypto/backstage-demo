@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SCM-Git
+  description: Gitlab code repository and version control
+  tags:
+    - jenkins
+  links:
+    - url: http://scm.ultimatix.net
+      title: Utility
+      icon: dashboard
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Engineering Platforms
+  system: GIT Platform
