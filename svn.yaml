@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SCM-SVN
+  description: SVN code repository and version control
+  tags:
+    - jenkins
+  links:
+    - url: http://acm.ultimatix.net
+      title: Utility
+      icon: dashboard
+spec:
+  type: Service
+  lifecycle: Deprecated
+  owner: CM Team
+  system: CM Team
