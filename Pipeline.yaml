@@ -10,7 +10,7 @@ metadata:
       title: Utility
       icon: dashboard
 spec:
-  type: website
-  lifecycle: production
-  owner: CICD ops team
-  system: public-websites
+  type: Service
+  lifecycle: Production
+  owner: Engineering Platforms
+  system: CICD Platform
