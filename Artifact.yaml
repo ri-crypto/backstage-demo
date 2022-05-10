@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Artifact-Repository
+  description: to store various atifact for collaborative development
+  tags:
+    - git
+	- nexus
+  links:
+    - url: http://ciuat.ultimatix.net
+      title: Utility
+      icon: dashboard
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Engineering Platforms
+  system: CICD Platform
