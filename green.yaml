@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: CICD-Greenlight
+  description: Utility For releasing a application lifecycle Id
+  tags:
+    - jenkins
+  links:
+    - url: http://ciuat.ultimatix.net
+      title: Utility
+      icon: dashboard
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Engineering Platforms
+  system: CICD Platform
