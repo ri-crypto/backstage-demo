@@ -1,4 +1,5 @@
 site_name: 'Pipeline Creation'
+docs_dir: Docs
 
 nav:
   - Home: index.md
