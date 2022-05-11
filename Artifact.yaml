@@ -5,7 +5,7 @@ metadata:
   description: to store various atifact for collaborative development
   tags:
     - git
-	- nexus
+    - nexus
   links:
     - url: http://ciuat.ultimatix.net
       title: Utility
