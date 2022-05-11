@@ -5,6 +5,8 @@ metadata:
   description: Create SIT/UAT/PROD Pipeline
   tags:
     - jenkins
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: http://ciuat.ultimatix.net
       title: Utility
