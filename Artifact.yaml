@@ -6,6 +6,8 @@ metadata:
   tags:
     - git
     - nexus
+  annotations:
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: http://ciuat.ultimatix.net
       title: Utility
